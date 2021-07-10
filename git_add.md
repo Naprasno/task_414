@@ -9,4 +9,8 @@
 ```bash=
 git add .
 ```
-[К содержанию](./readme.md)
+
+---
+[К содержанию](./readme.md) 
+
+[Далее (git status)](./git_status.md)

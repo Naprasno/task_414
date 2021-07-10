@@ -7,5 +7,10 @@
 ```bash=
 git clean .
 ```
+---
 
 [К содержанию](./readme.md)
+
+[Назад (git commit)](./git_commit.md)
+
+[Далее (git reset)](./git_reset.md)
