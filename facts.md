@@ -1,3 +1,5 @@
+[К содержанию](./readme.md)
+
 ## Факты о создателе
 
 1. Назван в честь лауреата Нобелевской премии
@@ -18,5 +20,5 @@
 *linux logo* Larry Ewing, Simon Budig, Garrett LeSage - https://isc.tamu.edu/~lewing/linux/, http://www.home.unix-ag.org/simon/penguin/
   [CC0](https://commons.wikimedia.org/w/index.php?curid=753970)
 
-[К содержанию](./readme.md)
+
 
