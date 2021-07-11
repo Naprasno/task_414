@@ -1,4 +1,4 @@
-[К содержанию](./readme.md)
+[![К содержанию](./img/button.png)](./readme.md)
 
 ## <center>Факты о создателе</center>
 
@@ -15,7 +15,7 @@
 4. Стив Джобс хотел, чтобы он работал над MacOS от Apple
 В 2000 году основатель Apple Стив Джобс пригласил его поработать над MacOS от Apple . Линус отказался от выгодного предложения и продолжил работу над ядром Linux.
 
-![gitlogo](./img/linux.png)
+![linlogo](./img/linux.png)
 
 *linux logo* Larry Ewing, Simon Budig, Garrett LeSage - https://isc.tamu.edu/~lewing/linux/, http://www.home.unix-ag.org/simon/penguin/
   [CC0](https://commons.wikimedia.org/w/index.php?curid=753970)
